@@ -28,7 +28,7 @@ url: https://stevenjgomez.github.io # the base hostname & protocol for your site
 github_username:  stevenjgomez
 
 # Build settings
-theme: jekyll-theme-hyde
+#theme: jekyll-theme-hyde
 plugins:
   - jekyll-feed
 
