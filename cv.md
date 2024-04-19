@@ -1,6 +1,6 @@
 ---
-layout: "page"
 title: "Curriculum Vitae"
+layout: "page"
 ---
 
 ### Education
