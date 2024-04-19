@@ -22,7 +22,7 @@ title: Steven J. Gomez Alvarado
 email: stevenjgomez@ucsb.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Crystal growth and scattering
-baseurl: "/stevenjgomez.github.io/"
+#baseurl: "/stevenjgomez.github.io/"
 domain: stevenjgomez.github.io
 url: https://stevenjgomez.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  stevenjgomez
