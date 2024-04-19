@@ -19,7 +19,7 @@ The high-pressure laser floating zone furnace, "LOKII", for which I led developm
 ---
 
 ![214boule.png](img/214boule.png){: style="height:300px;" }
-A crystal of Sr$$_2$$IrO$$_4$$ which I grew in the high-pressure laser floating zone furnace. To my knowledge, it's the largest Sr$$_2$$IrO$$_4$$ in the world! 
+A crystal of Sr$$_2$$IrO$$_4$$ which I grew in the high-pressure laser floating zone furnace. To my knowledge, it's the largest Sr$$_2$$IrO$$_4$$ crystal in the world! 
 
 ---
 
