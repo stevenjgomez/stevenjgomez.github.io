@@ -11,6 +11,8 @@ layout: "page"
   - B.S. Chemical Engineering
 
 ### Publications
+1. **S. J. Gomez Alvarado**, G. Pokharel, B. R. Ortiz, J. A. M. Paddison, S. Sarker, J. P. C. Ruff, and S. D. Wilson, Frustrated Ising charge correlations in the kagome metal ScV$$_6$$Sn$$_6$$. *Phys. Rev. B* **110** (2024) L140304. \[[**DOI: 10.1103/PhysRevB.110.L140304**](https://doi.org/10.1103/PhysRevB.110.L140304)\] \[[**arXiv: 2407.12099**](https://arxiv.org/abs/2407.12099)\]
+   ![166diffuse.png](img/166diffuse.png){: style="height:350px;" }
 1. B. R. Ortiz, P. M. Sarte, G. Pokharel, M. J. Knudtson, **S. J. Gomez Alvarado**, A. F. May, S. Calder, L. Mangin-Thro, A. R. Wildes, H. Zhou, G. Sala, C. R. Wiebe, S. D. Wilson, J. A. M. Paddison, and A. A. Aczel, Revisiting spin ice physics in the ferromagnetic Ising pyrochlore Pr$$_2$$Sn$$_2$$O$$_7$$. *Phys. Rev. B* **109** (2024) 134420. \[[**DOI: 10.1103/PhysRevB.109.134420**](https://doi.org/10.1103/PhysRevB.109.134420)\]\[[**arXiv: 2310.16180**](https://arxiv.org/abs/2310.16180)\]
    ![pso.png](img/pso.png){: style="height:350px;" }
 1. **S. J. Gomez Alvarado**, E. Zoghlin, A. Jackson, L. Kautzsch, J. Plumb, M. Aling, A. N. Capa Salinas, G. Pokharel, Y. Pang, R. M. Gomez, S. Daly, and S. D. Wilson, Advances in high-pressure laser floating zone growth: The Laser Optical Kristallmacher II (LOKII). *Rev. Sci. Instrum.* **95** (2024) 033903. \[[**DOI: 10.1063/5.0186528**](https://doi.org/10.1063/5.0186528)\]\[[**arXiv: 2311.03671**](https://arxiv.org/abs/2311.03671)\]
