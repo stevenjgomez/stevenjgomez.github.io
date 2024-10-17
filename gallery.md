@@ -43,11 +43,6 @@ Snowflakes growing under a crystal due to the chilly He cryostream during a sing
 
 ---
 
-![resistivity.png](img/resistivity.png)
-A crystal of Sr$$_2$$IrO$$_4$$ wired up for a measurement of its electrical resistivity.
-
----
-
 ![ga2o3.png](img/ga2o3.png)
 A crystal of Ga$$_2$$O$$_3$$ Dr. Ganesh Pokharel and I grew in the high-pressure laser floating zone furnace.
 
