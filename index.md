@@ -6,14 +6,7 @@ layout: "page"
 
 My name is Steven (he/him/his), I'm from Los Angeles, CA and now live in [Goleta, CA](https://en.wikipedia.org/wiki/Goleta,_California).
 
-My research focuses on understanding and controlling disorder, both intrinsic (_e.g._, from frustration effects) and extrinsic (_e.g._, from defects), in quantum materials. A key goal in my work is to shed light on how disorder in the electronic degrees of freedom (*i.e.*, spin, charge, orbital, lattice) plays a role in realizing (or competing with) interesting quantum ground states in frustrated magnets, unconventional superconductors, and other strongly correlated electron materials. I study these effects using X-ray and neutron scattering techniques paired with bulk transport and thermodynamic measurements. I also develop cutting-edge methods for high-purity crystal growth, including high-pressure techniques capable of realizing large, high-quality crystals of volatile and metastable phases suitable for neutron scattering investigations. 
-
-
-Research areas in 
-
-1. X-ray and neutron scattering
-2. New methods for high-purity crystal growth
-3. Studies of disorder in frustrated magnets
+My research focuses on understanding and controlling disorder, both intrinsic (_e.g._, from frustration effects) and extrinsic (_e.g._, from defects), in quantum materials. A key goal in my work is to shed light on how disorder in the electronic degrees of freedom (*i.e.*, spin, charge, orbital, lattice) plays a role in realizing (or competing with) interesting quantum ground states in frustrated magnets, unconventional superconductors, and other strongly correlated electron materials. I study these effects using X-ray and neutron scattering techniques paired with bulk transport and thermodynamic measurements. I also develop cutting-edge methods for high-purity crystal growth, including high-pressure techniques capable of realizing large, high-quality crystals of volatile and metastable phases suitable for neutron scattering investigations.
 
 I obtained my Ph.D. in Materials from the [University of California, Santa Barbara](https://www.materials.ucsb.edu/), where I worked in the [Wilson Group](https://labs.materials.ucsb.edu/wilson/stephen/). 
 
