@@ -12,7 +12,7 @@ layout: "page"
 
 ### Publications
 1. B. R. Ortiz, W. R. Meier, G. Pokharel, J. Chamorro, F. Yang, S. Mozaffari, A. Thaler, **S. J. Gomez Alvarado**, H. Zhang, D. S. Parker, G. D. Samolyuk, J. A. M. Paddison, J. Yan, F. Ye, S. Sarker, S. D. Wilson, H. Miao, D. Mandrus, M. A. McGuire, Stability frontiers in the $$AM_6X_6$$ kagome metals; The $$Ln$$Nb$$_6$$Sn$$_6$$ ($$Ln$$:Ce-Lu,Y) family and density-wave transition in LuNb$$_6$$Sn$$_6$$. (2024) \[[**arXiv: 2411.10635**](https://arxiv.org/abs/2411.10635)\]
-   ![166diffuse.png](img/166diffuse.png)
+   ![166stabilityfrontiers.png](img/stabilityfrontiers.png)
 1. **S. J. Gomez Alvarado**, G. Pokharel, B. R. Ortiz, J. A. M. Paddison, S. Sarker, J. P. C. Ruff, and S. D. Wilson, Frustrated Ising charge correlations in the kagome metal ScV$$_6$$Sn$$_6$$. *Phys. Rev. B* **110** (2024) L140304. \[[**DOI: 10.1103/PhysRevB.110.L140304**](https://doi.org/10.1103/PhysRevB.110.L140304)\] \[[**arXiv: 2407.12099**](https://arxiv.org/abs/2407.12099)\]
    ![166diffuse.png](img/166diffuse.png)
 1. B. R. Ortiz, P. M. Sarte, G. Pokharel, M. J. Knudtson, **S. J. Gomez Alvarado**, A. F. May, S. Calder, L. Mangin-Thro, A. R. Wildes, H. Zhou, G. Sala, C. R. Wiebe, S. D. Wilson, J. A. M. Paddison, and A. A. Aczel, Revisiting spin ice physics in the ferromagnetic Ising pyrochlore Pr$$_2$$Sn$$_2$$O$$_7$$. *Phys. Rev. B* **109** (2024) 134420. \[[**DOI: 10.1103/PhysRevB.109.134420**](https://doi.org/10.1103/PhysRevB.109.134420)\]\[[**arXiv: 2310.16180**](https://arxiv.org/abs/2310.16180)\]
