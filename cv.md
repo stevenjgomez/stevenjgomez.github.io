@@ -11,7 +11,7 @@ layout: "page"
   - B.S. Chemical Engineering
 
 ### Publications
-1. **S. J. Gomez Alvarado**, J. R. Chamorro, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond and magnetic frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. (2025) \[[**arXiv: 2xxx.xxxxx**](https://arxiv.org/abs/2xxx.xxxxx)\]
+1. **S. J. Gomez Alvarado**, J. R. Chamorro, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond and magnetic frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. (2025) \[[**arXiv: 2501.04203**](https://arxiv.org/abs/2501.04203)\]
    ![133structure.png](img/133structure.png)
 1. B. R. Ortiz, W. R. Meier, G. Pokharel, J. Chamorro, F. Yang, S. Mozaffari, A. Thaler, **S. J. Gomez Alvarado**, H. Zhang, D. S. Parker, G. D. Samolyuk, J. A. M. Paddison, J. Yan, F. Ye, S. Sarker, S. D. Wilson, H. Miao, D. Mandrus, M. A. McGuire, Stability frontiers in the $$AM_6X_6$$ kagome metals; The $$Ln$$Nb$$_6$$Sn$$_6$$ ($$Ln$$:Ce-Lu,Y) family and density-wave transition in LuNb$$_6$$Sn$$_6$$. (2024) \[[**arXiv: 2411.10635**](https://arxiv.org/abs/2411.10635)\]
    ![166stabilityfrontiers.png](img/166stabilityfrontiers.png)
