@@ -11,10 +11,12 @@ layout: "page"
   - B.S. Chemical Engineering
 
 ### Publications
-1. **S. J. Gomez Alvarado**, Y. Pang, P. A. Barrera, D. Rout, C. Robison, Z. Porter, H. Z. Porter, E. A. Lawrence, E. N. Bassey, and S. D. Wilson, High-pressure floating zone crystal growth of Sr$$_2$$IrO$$_4$$. (2025) \[[**arXiv: 2xxx.xxxxx**](https://arxiv.org/abs/2xxx.xxxxx)\] 
+1. **S. J. Gomez Alvarado**, Y. Pang, P. A. Barrera, D. Rout, C. Robison, Z. Porter, H. Z. Porter, E. A. Lawrence, E. N. Bassey, and S. D. Wilson, High-pressure floating zone crystal growth of Sr$$_2$$IrO$$_4$$. (2025) \[[**arXiv: 2502.11241**](https://arxiv.org/abs/2502.11241)\] 
    ![ir214graphic.png](img/ir214graphic.png)
 1. **S. J. Gomez Alvarado**, J. R. Chamorro, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond and magnetic frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. (2025) \[[**arXiv: 2501.04203**](https://arxiv.org/abs/2501.04203)\]
    ![133structure.png](img/133structure.png)
+1. M. E. Turiansky, S. Mu, L. Razinkovas, K. Parto, S. D. Patel, S. Doan, G. Pokharel, S. J. Gomez Alvarado, S. D. Wilson, G. Moody, and C. G. Van de Walle, Characterization of Chromium Impurities in $$\beta$$-Ga$$_2$$O$$_3$$. (2025) \[[**DOI: 10.1063/5.0255859**](https://doi.org/10.1063/5.0255859)\] \[[**arXiv: 2501.00561**](https://arxiv.org/abs/2501.00561)\]
+    ![ga2o3_paper.png](img/ga2o3_paper.png)
 1. B. R. Ortiz, W. R. Meier, G. Pokharel, J. Chamorro, F. Yang, S. Mozaffari, A. Thaler, **S. J. Gomez Alvarado**, H. Zhang, D. S. Parker, G. D. Samolyuk, J. A. M. Paddison, J. Yan, F. Ye, S. Sarker, S. D. Wilson, H. Miao, D. Mandrus, and M. A. McGuire, Stability frontiers in the $$AM_6X_6$$ kagome metals; The $$Ln$$Nb$$_6$$Sn$$_6$$ ($$Ln$$:Ce-Lu,Y) family and density-wave transition in LuNb$$_6$$Sn$$_6$$. (2025) \[[**DOI: 10.1021/jacs.4c16347**](https://doi.org/10.1021/jacs.4c16347)\] \[[**arXiv: 2411.10635**](https://arxiv.org/abs/2411.10635)\]
    ![166stabilityfrontiers.png](img/166stabilityfrontiers.png)
 1. **S. J. Gomez Alvarado**, G. Pokharel, B. R. Ortiz, J. A. M. Paddison, S. Sarker, J. P. C. Ruff, and S. D. Wilson, Frustrated Ising charge correlations in the kagome metal ScV$$_6$$Sn$$_6$$. *Phys. Rev. B* **110** (2024) L140304. \[[**DOI: 10.1103/PhysRevB.110.L140304**](https://doi.org/10.1103/PhysRevB.110.L140304)\] \[[**arXiv: 2407.12099**](https://arxiv.org/abs/2407.12099)\]
