@@ -4,7 +4,7 @@ layout: "page"
 ---
 
 ### Education
-- **University of California, Santa Barbara** (2019 - 2024)
+- **University of California, Santa Barbara** (2019 - 2025)
   - Ph.D. Materials, Advised by <a href="https://labs.materials.ucsb.edu/wilson/stephen/">Prof. Stephen Wilson</a>
 
 - **University of California, Los Angeles** (2014 - 2018)
