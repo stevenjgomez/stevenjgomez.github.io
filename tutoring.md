@@ -11,6 +11,6 @@ I regularly tutor folks from across the country in the following subjects:
 - Linear Algebra
 
 Inquire via email for rates and availability:<br/>
-sjgomezalvarado [at] [gmail]
+sjgomezalvarado [at] gmail [dot] com
 
 Looking forward to hearing from you!
