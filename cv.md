@@ -11,7 +11,7 @@ layout: "page"
   - B.S. Chemical Engineering
 
 ### Publications
-1. **S. J. Gomez Alvarado**, B. R. Ortiz, S. Bear, B. A. Gonzalez, A. N. Capa Salinas, M. J. Graf, and S. D. Wilson, Magnetic dilution in the triangular lattice antiferromagnet NaYb$$_{1-x}$$Lu$$_x$$O$$_2$$. (2025) In preparation.
+1. **S. J. Gomez Alvarado**, B. R. Ortiz, S. Bear, B. A. Gonzalez, A. N. Capa Salinas, A. Berlie, M. J. Graf, and S. D. Wilson, Magnetic dilution in the triangular lattice antiferromagnet NaYb$$_{1-x}$$Lu$$_x$$O$$_2$$. (2025) In preparation.
    ![nylo_toc.png](img/nylo_toc.png)
 1. G. Pokharel, C. Zhang, E. Redekop, B. R. Ortiz, A. N. Capa Salinas, S. Schwarz, **S. J. Gomez Alvarado**, S. Sarker, A. F. Young, and S. D. Wilson, Evolution of charge correlations in the hole-doped kagome superconductor CsV$$_{3-x}$$Ti$$_x$$Sb$$_5$$. (2025) \[[**arXiv: 2506.13941**](https://arxiv.org/abs/2506.13941)\]
    ![cvts.png](img/cvts.png)
