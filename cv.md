@@ -17,7 +17,7 @@ layout: "page"
 
 <!-- \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\] -->
 ### Publications
-1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Magnetic ground state and crystalline electric field excitations in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. (2025) Submitted. 
+1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. (2025) Submitted. 
    ![nd133_cef.png](img/nd133_cef.png)
 1. **S. J. Gomez Alvarado**, B. R. Ortiz, S. Bear, B. A. Gonzalez, A. N. Capa Salinas, A. Berlie, M. J. Graf, and S. D. Wilson, Magnetic dilution in the triangular lattice antiferromagnet NaYb$$_{1-x}$$Lu$$_x$$O$$_2$$. (2025) Submitted. \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\]
    ![nylo_toc.png](img/nylo_toc.png)
