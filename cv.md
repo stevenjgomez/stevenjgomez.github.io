@@ -2,6 +2,11 @@
 title: "Curriculum Vitae"
 layout: "page"
 ---
+### Employment
+
+- **Rice University** (2025 - Present)
+  - Postdoctoral Research Associate, Advised by Prof. Pengcheng Dai
+
 
 ### Education
 - **University of California, Santa Barbara** (2019 - 2025)
