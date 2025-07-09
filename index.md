@@ -4,7 +4,7 @@ layout: "page"
 ---
 <img style="float:right; padding-left: 1rem; padding-bottom: 1rem; width: 300px" src="img/steven-2.jpg">
 
-My name is Steven (he/him), I'm from Los Angeles, CA and now live in Houston, TX where I work as a Postdoctoral Researcher at Rice University.
+My name is Steven (he/him), I'm from Los Angeles, CA and now live in Houston, TX where I work as a Postdoctoral Researcher in the [Dai Group](https://pdai.phys.rice.edu/) at Rice University.
 
 My research focuses on understanding and controlling disorder, both intrinsic (_e.g._, from frustration effects) and extrinsic (_e.g._, from defects), in quantum materials. A key goal in my work is to shed light on how disorder in the electronic degrees of freedom (*i.e.*, spin, charge, orbital, lattice) plays a role in realizing (or competing with) interesting quantum ground states in frustrated magnets, unconventional superconductors, and other strongly correlated electron materials. I study these effects using X-ray and neutron scattering techniques paired with bulk transport and thermodynamic measurements. I also develop cutting-edge synthesis methods, including high-pressure bulk crystal growth techniques capable of realizing large, high-quality crystals of volatile and metastable phases suitable for neutron scattering investigations.
 
