@@ -12,7 +12,7 @@ I obtained my Ph.D. in Materials in 2025 from the [University of California, San
 
 Visitors to this website who would like to get in contact may do so by email:
 
-sjgomezalvarado [at] [gmail]
+sjgomezalvarado [at] gmail [dot] com
 
 ---
 
