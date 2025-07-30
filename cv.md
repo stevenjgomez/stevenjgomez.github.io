@@ -18,7 +18,7 @@ layout: "page"
 <!-- \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\] -->
 ### Publications
 1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. (2025) Submitted. 
-   ![nd133_cef.png](img/nd133_cef.png)
+   <!-- ![nd133_cef.png](img/nd133_cef.png) -->
 1. **S. J. Gomez Alvarado**, B. R. Ortiz, S. Bear, B. A. Gonzalez, A. N. Capa Salinas, A. Berlie, M. J. Graf, and S. D. Wilson, Magnetic dilution in the triangular lattice antiferromagnet NaYb$$_{1-x}$$Lu$$_x$$O$$_2$$. (2025) Submitted. \[[**arXiv: 2506.22613**](https://arxiv.org/abs/2506.22613)\]
    ![nylo_toc.png](img/nylo_toc.png)
 1. G. Pokharel, C. Zhang, E. Redekop, B. R. Ortiz, A. N. Capa Salinas, S. Schwarz, **S. J. Gomez Alvarado**, S. Sarker, A. F. Young, and S. D. Wilson, Evolution of charge correlations in the hole-doped kagome superconductor CsV$$_{3-x}$$Ti$$_x$$Sb$$_5$$. (2025) Submitted. \[[**arXiv: 2506.13941**](https://arxiv.org/abs/2506.13941)\]
