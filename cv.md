@@ -17,14 +17,14 @@ layout: "page"
 
 <!-- \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\] -->
 ### Publications
-<!--1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. (2025) Submitted. 
-   ![nd133_cef.png](img/nd133_cef.png) -->
+1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. (2025) Submitted. \[[**arXiv: 2509.08110**](https://arxiv.org/abs/2509.08110)\]
+   ![nd133_cef.png](img/nd133_cef.png)
 1. **S. J. Gomez Alvarado**, B. R. Ortiz, S. Bear, B. A. Gonzalez, A. N. Capa Salinas, A. Berlie, M. J. Graf, and S. D. Wilson, Magnetic dilution in the triangular lattice antiferromagnet NaYb$$_{1-x}$$Lu$$_x$$O$$_2$$. (2025) Submitted. \[[**arXiv: 2506.22613**](https://arxiv.org/abs/2506.22613)\]
    ![nylo_toc.png](img/nylo_toc.png)
-1. G. Pokharel, C. Zhang, E. Redekop, B. R. Ortiz, A. N. Capa Salinas, S. Schwarz, **S. J. Gomez Alvarado**, S. Sarker, A. F. Young, and S. D. Wilson, Evolution of charge correlations in the hole-doped kagome superconductor CsV$$_{3-x}$$Ti$$_x$$Sb$$_5$$. (2025) *Phys. Rev. Mater.* Accepted. \[[**arXiv: 2506.13941**](https://arxiv.org/abs/2506.13941)\]
-   ![cvts.png](img/cvts.png)
 1. **S. J. Gomez Alvarado**, J. R. Chamorro, D. Rout, J. Hielscher, S. Schwarz, C. Benyacko, M. B. Stone, V. Ovidiu Garlea, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. (2025) *Nat. Mater.* Accepted. \[[**arXiv: 2501.04203**](https://arxiv.org/abs/2501.04203)\]
    ![133structure.png](img/133structure.png)
+1. G. Pokharel, C. Zhang, E. Redekop, B. R. Ortiz, A. N. Capa Salinas, S. Schwarz, **S. J. Gomez Alvarado**, S. Sarker, A. F. Young, and S. D. Wilson, Evolution of charge correlations in the hole-doped kagome superconductor CsV$$_{3-x}$$Ti$$_x$$Sb$$_5$$. (2025) *Phys. Rev. Mater.* **9** (2025) 094805. \[[**DOI: 10.1103/gv69-1lyj**](https://doi.org/10.1103/gv69-1lyj)\]\[[**arXiv: 2506.13941**](https://arxiv.org/abs/2506.13941)\] 
+   ![cvts.png](img/cvts.png)
 1. **S. J. Gomez Alvarado**, Y. Pang, P. A. Barrera, D. Rout, C. Robison, Z. Porter, H. Z. Porter, E. A. Lawrence, E. N. Bassey, and S. D. Wilson, High-pressure floating zone crystal growth of Sr$$_2$$IrO$$_4$$. *Phys. Rev. Mater.* **9** (2025) 053402. \[[**DOI: 10.1103/PhysRevMaterials.9.053402**](https://doi.org/10.1103/PhysRevMaterials.9.053402)\]\[[**arXiv: 2502.11241**](https://arxiv.org/abs/2502.11241)\] 
    ![ir214graphic.png](img/ir214graphic.png)
 1. M. E. Turiansky, S. Mu, L. Razinkovas, K. Parto, S. D. Patel, S. Doan, G. Pokharel, S. J. Gomez Alvarado, S. D. Wilson, G. Moody, and C. G. Van de Walle, Characterization of Chromium Impurities in $$\beta$$-Ga$$_2$$O$$_3$$. *J. Appl. Phys.* **137** (2025) 104401. \[[**DOI: 10.1063/5.0255859**](https://doi.org/10.1063/5.0255859)\]\[[**arXiv: 2501.00561**](https://arxiv.org/abs/2501.00561)\]
