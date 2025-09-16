@@ -5,7 +5,7 @@ layout: "page"
 ### Employment
 
 - **Rice University** (2025 - Present)
-  - Postdoctoral Research Associate, Advised by Prof. Pengcheng Dai and Prof. Emilia Morosan
+  - Postdoctoral Research Associate, Advised by <a href="https://pdai.phys.rice.edu/">Prof. Pengcheng Dai</a> and <a href="https://morosan.rice.edu/">Prof. Emilia Morosan</a>
 
 
 ### Education
