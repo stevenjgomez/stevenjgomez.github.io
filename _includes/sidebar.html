@@ -17,12 +17,17 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-          {% if node.title and node.layout == "page" and node.url != "/" %}
-              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+      {% assign ordered_titles = "Research,About Me,Publications,Gallery,Tutoring Services,GitHub" | split: "," %}
+
+      {% for title in ordered_titles %}
+        {% assign node = site.pages | where: "title", title | first %}
+        {% if node and node.layout == "page" and node.url != "/" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
+            {{ node.title }}
+          </a>
+        {% endif %}
       {% endfor %}
+
 
 <!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>-->
       <a class="sidebar-nav-item" href="https://www.github.com/stevenjgomez">GitHub</a>

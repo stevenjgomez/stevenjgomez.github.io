@@ -1,19 +1,10 @@
 ---
-title: "Curriculum Vitae"
+title: "Publications"
 layout: "page"
 ---
-### Employment
 
-- **Rice University** (2025 - Present)
-  - Postdoctoral Research Associate, Advised by <a href="https://pdai.phys.rice.edu/">Prof. Pengcheng Dai</a> and <a href="https://morosan.rice.edu/">Prof. Emilia Morosan</a>
-
-
-### Education
-- **University of California, Santa Barbara** (2019 - 2025)
-  - Ph.D. Materials, Advised by <a href="https://labs.materials.ucsb.edu/wilson/stephen/">Prof. Stephen Wilson</a>
-
-- **University of California, Los Angeles** (2014 - 2018)
-  - B.S. Chemical Engineering
+[ORCiD Profile](https://orcid.org/0000-0002-5783-1126)
+[Google Scholar](https://scholar.google.com/citations?user=s7AWMgwAAAAJ&hl)
 
 <!-- \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\] -->
 ### Publications
