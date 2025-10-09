@@ -17,7 +17,7 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign ordered_titles = "Research,About Me,Publications,Gallery,Tutoring Services,GitHub" | split: "," %}
+      {% assign ordered_titles = "Research,About Me,Publications,Tutoring Services,GitHub" | split: "," %}
 
       {% for title in ordered_titles %}
         {% assign node = site.pages | where: "title", title | first %}
