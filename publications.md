@@ -9,9 +9,11 @@ layout: "page"
 
 <!-- \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\] -->
 <!-- ### Publications -->
-1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. *Phys. Rev. Mater.* (2025) Accepted. \[[**arXiv: 2509.08110**](https://arxiv.org/abs/2509.08110)\]
+1. W. Yao, V. Peçanha Antonio, D. Adroja, **S. J. Gomez Alvarado**, B. Gao, S. Xu, R. Liu, X. Lu, and P. Dai, Signatures of three-state Potts nematicity in spin excitations of the van der Waals antiferromagnet FePSe$$_3$$. Submitted (2025). \[[**arXiv: 2509.02475**](https://arxiv.org/abs/2509.02475)\]
+   ![fepse3_strain.png](img/fepse3_strain.png)
+1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. *Phys. Rev. Mater.* **9** 104414 (2025) \[[**DOI: 10.1103/2dcv-nkz7**](https://doi.org/10.1103/2dcv-nkz7)\]\[[**arXiv: 2509.08110**](https://arxiv.org/abs/2509.08110)\]
    ![nd133_cef.png](img/nd133_cef.png)
-1. **S. J. Gomez Alvarado**, J. R. Chamorro, D. Rout, J. Hielscher, S. Schwarz, C. Benyacko, M. B. Stone, V. Ovidiu Garlea, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. *Nat. Mater.* (2025)  [[**DOI: 10.1038/s41563-025-02380-x**](https://doi.org/10.1038/s41563-025-02380-x)\]\[[**arXiv: 2501.04203**](https://arxiv.org/abs/2501.04203)\]
+1. **S. J. Gomez Alvarado**, J. R. Chamorro, D. Rout, J. Hielscher, S. Schwarz, C. Benyacko, M. B. Stone, V. Ovidiu Garlea, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. *Nat. Mater.* (2025)  \[[**DOI: 10.1038/s41563-025-02380-x**](https://doi.org/10.1038/s41563-025-02380-x)\]\[[**arXiv: 2501.04203**](https://arxiv.org/abs/2501.04203)\]
    ![133structure.png](img/133structure.png)
 1. **S. J. Gomez Alvarado**, B. R. Ortiz, S. Bear, B. A. Gonzalez, A. N. Capa Salinas, A. Berlie, M. J. Graf, and S. D. Wilson, Magnetic dilution in the triangular lattice antiferromagnet NaYb$$_{1-x}$$Lu$$_x$$O$$_2$$. *Phys. Rev. B* **112** (2025) 144434. \[[**DOI: 10.1103/th1p-5rxt**](https://doi.org/10.1103/th1p-5rxt)\]\[[**arXiv: 2506.22613**](https://arxiv.org/abs/2506.22613)\]
    ![nylo_toc_data.png](img/nylo_toc_data.png)
