@@ -9,8 +9,9 @@ layout: "page"
 
 <!-- \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\] -->
 <!-- ### Publications -->
-1. T. Zhang, **S. J. Gomez Alvarado**, S. Xu, T. J. Williams, X. Wang, J. He, M. B. Stone, C. Sarkis, F. Ye, Z. Liu, J. Li, A. Jayakumar, Z. Wang, Y. Xie, C.-W. Chu, L. Deng, E. Morosan, and P. Dai, Evidence for itinerant electron-local moment interaction in Li-doped
+1. T. Zhang\*, **S. J. Gomez Alvarado**\*, S. Xu, T. J. Williams, X. Wang, J. He, M. B. Stone, C. Sarkis, F. Ye, Z. Liu, J. Li, A. Jayakumar, Z. Wang, Y. Xie, C.-W. Chu, L. Deng, E. Morosan, and P. Dai, Evidence for itinerant electron-local moment interaction in Li-doped
 $$\alpha$$-MnTe. Submitted (2025). \[[**arXiv: 2512.00747**](https://arxiv.org/abs/2512.00747)\]
+\* These authors contributed equally to this work.
    ![limnte_toc.png](img/limnte_toc.png)
 1. W. Yao, V. Peçanha Antonio, D. Adroja, **S. J. Gomez Alvarado**, B. Gao, S. Xu, R. Liu, X. Lu, and P. Dai, Signatures of three-state Potts nematicity in spin excitations of the van der Waals antiferromagnet FePSe$$_3$$. Submitted (2025). \[[**arXiv: 2509.02475**](https://arxiv.org/abs/2509.02475)\]
    ![fepse3_strain.png](img/fepse3_strain.png)
