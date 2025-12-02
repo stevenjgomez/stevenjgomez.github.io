@@ -44,7 +44,7 @@ $$\alpha$$-MnTe. Submitted (2025). \[[**arXiv: 2512.00747**](https://arxiv.org/a
     ![134paper.png](img/134paper.png){: style="height:350px;" }
 1. **[Editor's Suggestion]** **S. J. Gomez**, P. M. Sarte, M. Zelensky, A. M. Hallas, B. A. Gonzalez, K. H. Hong, E. J. Pace, S. Calder, M. B. Stone, Y. Su, E. Feng, M. D. Le, C. Stock, J. P. Attfield, S. D. Wilson, C. R. Wiebe, and A. A. Aczel, Absence of moment fragmentation in the mixed $$B$$-site pyrochlore Nd$$_2$$GaSbO$$_7$$. *Phys. Rev. B* **103** (2021) 214419. \[[**DOI: 10.1103/PhysRevB.103.214419**](https://doi.org/10.1103/PhysRevB.103.214419)\]\[[**arXiv: 2104.00791**](https://arxiv.org/abs/2104.00791)\]
     ![ngsopaper.png](img/ngsopaper.png){: style="height:350px;" }
-1. **S. J. Gomez**, D. Cheikh, T. Vo, P. Von Allmen, K. Lee, M. Wood, G.J. Snyder, B. S. Dunn, J.-P. Fleurial, and S. K. Bux, Synthesis and Characterization of Vacancy-Doped Neodymium Telluride for Thermoelectric Applications, *Chem. Mater.* **31** (2019) 4460-4468.
+1. **S. J. Gomez**\*, D. Cheikh\*, T. Vo, P. Von Allmen, K. Lee, M. Wood, G.J. Snyder, B. S. Dunn, J.-P. Fleurial, and S. K. Bux, Synthesis and Characterization of Vacancy-Doped Neodymium Telluride for Thermoelectric Applications, *Chem. Mater.* **31** (2019) 4460-4468.
  [<a href="https://dx.doi.org/10.1021/acs.chemmater.9b00964"><b>DOI: 10.1021/acs.chemmater.9b00964</b></a>][<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961965/"><b>PubMed Central</b></a>]
 
    \* These authors contributed equally to this work.
