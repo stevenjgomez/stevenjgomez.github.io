@@ -21,7 +21,7 @@ $$\alpha$$-MnTe. Submitted (2025). \[[**arXiv: 2512.00747**](https://arxiv.org/a
    ![fepse3_strain.png](img/fepse3_strain.png)
 1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. *Phys. Rev. Mater.* **9** 104414 (2025) \[[**DOI: 10.1103/2dcv-nkz7**](https://doi.org/10.1103/2dcv-nkz7)\]\[[**arXiv: 2509.08110**](https://arxiv.org/abs/2509.08110)\]
    ![nd133_cef.png](img/nd133_cef.png)
-1. **S. J. Gomez Alvarado**\*, J. R. Chamorro\*, D. Rout, J. Hielscher, S. Schwarz, C. Benyacko, M. B. Stone, V. Ovidiu Garlea, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. *Nat. Mater.* (2025)  \[[**DOI: 10.1038/s41563-025-02380-x**](https://doi.org/10.1038/s41563-025-02380-x)\]\[[**arXiv: 2501.04203**](https://arxiv.org/abs/2501.04203)\]
+1. **S. J. Gomez Alvarado**\*, J. R. Chamorro\*, D. Rout, J. Hielscher, S. Schwarz, C. Benyacko, M. B. Stone, V. Ovidiu Garlea, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. *Nat. Mater.* **25** 65 (2025)  \[[**DOI: 10.1038/s41563-025-02380-x**](https://doi.org/10.1038/s41563-025-02380-x)\]\[[**arXiv: 2501.04203**](https://arxiv.org/abs/2501.04203)\]
    
    \* These authors contributed equally to this work.
    ![133structure.png](img/133structure.png)
