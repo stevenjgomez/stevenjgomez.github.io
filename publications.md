@@ -17,7 +17,7 @@ $$\alpha$$-MnTe. Submitted (2025). \[[**arXiv: 2512.00747**](https://arxiv.org/a
    
    \* These authors contributed equally to this work.
    ![limnte_toc.png](img/limnte_toc.png)
-1. W. Yao, V. Peçanha Antonio, D. Adroja, **S. J. Gomez Alvarado**, B. Gao, S. Xu, R. Liu, X. Lu, and P. Dai, Signatures of three-state Potts nematicity in spin excitations of the van der Waals antiferromagnet FePSe$$_3$$. Submitted (2025). \[[**arXiv: 2509.02475**](https://arxiv.org/abs/2509.02475)\]
+1. W. Yao, V. Peçanha Antonio, D. Adroja, **S. J. Gomez Alvarado**, B. Gao, S. Xu, R. Liu, X. Lu, and P. Dai, Signatures of three-state Potts nematicity in spin excitations of the van der Waals antiferromagnet FePSe$$_3$$. *Nano Lett.* (2025). \[[**DOI: 10.1021/acs.nanolett.5c06293**](https://doi.org/10.1021/acs.nanolett.5c06293)\]\[[**arXiv: 2509.02475**](https://arxiv.org/abs/2509.02475)\]
    ![fepse3_strain.png](img/fepse3_strain.png)
 1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. *Phys. Rev. Mater.* **9** 104414 (2025) \[[**DOI: 10.1103/2dcv-nkz7**](https://doi.org/10.1103/2dcv-nkz7)\]\[[**arXiv: 2509.08110**](https://arxiv.org/abs/2509.08110)\]
    ![nd133_cef.png](img/nd133_cef.png)
