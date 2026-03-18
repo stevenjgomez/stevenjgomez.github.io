@@ -9,7 +9,7 @@ layout: "page"
 
 <!-- \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\] -->
 <!-- ### Publications -->
-1. J. Davis, J. Liebman, D. Rout, **S.J. Gomez Alvarado**, S. D. Wilson, N. Drichko, Raman scattering spectroscopic observation of a ferroelastic crossover in bond-frustrated PrCd$_3$$P$$_3$$. Submitted (2026). \[[**arXiv: 2603.04539**](https://arxiv.org/abs/2603.04539)\]
+1. J. Davis, J. Liebman, D. Rout, **S.J. Gomez Alvarado**, S. D. Wilson, N. Drichko, Raman scattering spectroscopic observation of a ferroelastic crossover in bond-frustrated PrCd$$_3$$P$$_3$$. Submitted (2026). \[[**arXiv: 2603.04539**](https://arxiv.org/abs/2603.04539)\]
    ![prcd3p3_raman.png](img/prcd3p3_raman.png)
 
 1. A. N. Capa Salinas, B. R. Ortiz, **S. J. Gomez Alvarado**, S. Schwarz, G. Pokharel, L. Buiarelli, H. H. Park, S. Yuan, R. Yin, S. Sarker, T. Birol, and S. D. Wilson, Interplay between charge correlations and superconductivity across the superconducting domes of CsV$$_3$$Sb$$_{5−x}$$Sn$$_x$$. Submitted (2025). \[[**arXiv: 2512.11177**](https://arxiv.org/abs/2512.11177)\]
