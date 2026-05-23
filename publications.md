@@ -32,7 +32,9 @@ $$\alpha$$-MnTe. Submitted (2025). \[[**arXiv: 2512.00747**](https://arxiv.org/a
    ![nylo_toc_data.png](img/nylo_toc_data.png)
 1. G. Pokharel, C. Zhang, E. Redekop, B. R. Ortiz, A. N. Capa Salinas, S. Schwarz, **S. J. Gomez Alvarado**, S. Sarker, A. F. Young, and S. D. Wilson, Evolution of charge correlations in the hole-doped kagome superconductor CsV$$_{3-x}$$Ti$$_x$$Sb$$_5$$ *Phys. Rev. Mater.* **9** (2025) 094805. \[[**DOI: 10.1103/gv69-1lyj**](https://doi.org/10.1103/gv69-1lyj)\]\[[**arXiv: 2506.13941**](https://arxiv.org/abs/2506.13941)\] 
    ![cvts.png](img/cvts.png)
-1. **S. J. Gomez Alvarado**, Y. Pang, P. A. Barrera, D. Rout, C. Robison, Z. Porter, H. Z. Porter, E. A. Lawrence, E. N. Bassey, and S. D. Wilson, High-pressure floating zone crystal growth of Sr$$_2$$IrO$$_4$$. *Phys. Rev. Mater.* **9** (2025) 053402. \[[**DOI: 10.1103/PhysRevMaterials.9.053402**](https://doi.org/10.1103/PhysRevMaterials.9.053402)\]\[[**arXiv: 2502.11241**](https://arxiv.org/abs/2502.11241)\] 
+1. **S. J. Gomez Alvarado**\*, Y. Pang\*, P. A. Barrera, D. Rout, C. Robison, Z. Porter, H. Z. Porter, E. A. Lawrence, E. N. Bassey, and S. D. Wilson, High-pressure floating zone crystal growth of Sr$$_2$$IrO$$_4$$. *Phys. Rev. Mater.* **9** (2025) 053402. \[[**DOI: 10.1103/PhysRevMaterials.9.053402**](https://doi.org/10.1103/PhysRevMaterials.9.053402)\]\[[**arXiv: 2502.11241**](https://arxiv.org/abs/2502.11241)\] 
+
+   \* These authors contributed equally to this work.
    ![ir214graphic.png](img/ir214graphic.png)
 1. M. E. Turiansky, S. Mu, L. Razinkovas, K. Parto, S. D. Patel, S. Doan, G. Pokharel, **S. J. Gomez Alvarado**, S. D. Wilson, G. Moody, and C. G. Van de Walle, Characterization of Chromium Impurities in $$\beta$$-Ga$$_2$$O$$_3$$. *J. Appl. Phys.* **137** (2025) 104401. \[[**DOI: 10.1063/5.0255859**](https://doi.org/10.1063/5.0255859)\]\[[**arXiv: 2501.00561**](https://arxiv.org/abs/2501.00561)\]
     ![ga2o3_paper.png](img/ga2o3_paper.png)
