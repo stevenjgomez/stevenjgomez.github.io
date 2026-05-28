@@ -16,7 +16,7 @@ I obtained my Ph.D. in Materials in 2025 from the [University of California, San
 - **University of California, Santa Barbara** (2019 - 2025)
   - Ph.D. Materials, Advised by <a href="https://labs.materials.ucsb.edu/wilson/stephen/">Prof. Stephen Wilson</a>
   - Thesis: *Scattering studies of disorder in quantum materials and the development of high-pressure crystal growth techniques*
-   [UCSB eScholarship](https://escholarship.org/uc/item/46b0r76t)]
+   [[UCSB eScholarship](https://escholarship.org/uc/item/46b0r76t)]
 
 - **University of California, Los Angeles** (2014 - 2018)
   - B.S. Chemical Engineering
