@@ -9,10 +9,14 @@ layout: "page"
 
 <!-- \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\] -->
 <!-- ### Publications -->
-1. J. Davis, J. Liebman, D. Rout, **S.J. Gomez Alvarado**, S. D. Wilson, and N. Drichko, Raman scattering spectroscopic observation of a ferroelastic crossover in bond-frustrated PrCd$$_3$$P$$_3$$. Submitted (2026). \[[**arXiv: 2603.04539**](https://arxiv.org/abs/2603.04539)\]
+<!-- 1. **S. J. Gomez Alvarado**, J.-S. Su, D.-J. Huang, H.-Y. Huang, J. Okamoto, A. Fujimori, T. Fujii, T. Watanabe, S. Liu, K. Matsuura, M. Roppongi, R. Olmos, X. Lu, T. Shibauchi, and P. Dai, Persistent high-energy spin excitations across the phase diagram of FeSe$$_{1-x}$$Te$$_x$$. Submitted (2026). \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\]
+   ![FeSeTe_RIXS_TOC.png](img/FeSeTe_RIXS_TOC.png) -->
+
+1. J. Davis, J. Liebman, D. Rout, **S. J. Gomez Alvarado**, S. D. Wilson, and N. Drichko, Raman scattering spectroscopic observation of a ferroelastic crossover in bond-frustrated PrCd$$_3$$P$$_3$$. Submitted (2026). \[[**arXiv: 2603.04539**](https://arxiv.org/abs/2603.04539)\]
    ![prcd3p3_raman.png](img/prcd3p3_raman.png)
 
-1. A. N. Capa Salinas, B. R. Ortiz, **S. J. Gomez Alvarado**, S. Schwarz, G. Pokharel, L. Buiarelli, H. H. Park, S. Yuan, R. Yin, S. Sarker, T. Birol, and S. D. Wilson, Interplay between charge correlations and superconductivity across the superconducting domes of CsV$$_3$$Sb$$_{5−x}$$Sn$$_x$$. Submitted (2025). \[[**arXiv: 2512.11177**](https://arxiv.org/abs/2512.11177)\]
+
+1. A. N. Capa Salinas, B. R. Ortiz, **S. J. Gomez Alvarado**, S. Schwarz, G. Pokharel, L. Buiarelli, H. H. Park, S. Yuan, R. Yin, S. Sarker, T. Birol, and S. D. Wilson, Interplay between charge correlations and superconductivity across the superconducting domes of CsV$$_3$$Sb$$_{5−x}$$Sn$$_x$$. *Phys. Rev. B* **114**, 094504 (2026). \[[**arXiv: 2512.11177**](https://arxiv.org/abs/2512.11177)\]
    ![cvs_stripes.png](img/cvs_stripes.png)
 
 1. T. Zhang\*, **S. J. Gomez Alvarado**\*, S. Xu, T. J. Williams, X. Wang, J. He, M. B. Stone, C. Sarkis, F. Ye, Z. Liu, J. Li, A. Jayakumar, Z. Wang, Y. Xie, C.-W. Chu, L. Deng, E. Morosan, and P. Dai, Evidence for itinerant electron-local moment interaction in Li-doped
@@ -20,10 +24,14 @@ $$\alpha$$-MnTe. Submitted (2025). \[[**arXiv: 2512.00747**](https://arxiv.org/a
    
    \* These authors contributed equally to this work.
    ![limnte_toc.png](img/limnte_toc.png)
-1. W. Yao, V. Peçanha Antonio, D. Adroja, **S. J. Gomez Alvarado**, B. Gao, S. Xu, R. Liu, X. Lu, and P. Dai, Signatures of three-state Potts nematicity in spin excitations of the van der Waals antiferromagnet FePSe$$_3$$. *Nano Lett.* (2025). \[[**DOI: 10.1021/acs.nanolett.5c06293**](https://doi.org/10.1021/acs.nanolett.5c06293)\]\[[**arXiv: 2509.02475**](https://arxiv.org/abs/2509.02475)\]
+
+
+1. W. Yao, V. Peçanha Antonio, D. Adroja, **S. J. Gomez Alvarado**, B. Gao, S. Xu, R. Liu, X. Lu, and P. Dai, Signatures of three-state Potts nematicity in spin excitations of the van der Waals antiferromagnet FePSe$$_3$$. *Nano Lett.* **26**, 3149 (2025). \[[**DOI: 10.1021/acs.nanolett.5c06293**](https://doi.org/10.1021/acs.nanolett.5c06293)\]\[[**arXiv: 2509.02475**](https://arxiv.org/abs/2509.02475)\]
    ![fepse3_strain.png](img/fepse3_strain.png)
+
 1. J. R. Chamorro, **S. J. Gomez Alvarado**, D. Rout, S. Schwarz, A. Scheie, G. Pokharel, A. Kolesnikov, L. Keller, R. Seshadri, and S. D. Wilson, Hidden frustration in the triangular-lattice antiferromagnet NdCd$$_3$$P$$_3$$. *Phys. Rev. Mater.* **9** 104414 (2025) \[[**DOI: 10.1103/2dcv-nkz7**](https://doi.org/10.1103/2dcv-nkz7)\]\[[**arXiv: 2509.08110**](https://arxiv.org/abs/2509.08110)\]
    ![nd133_cef.png](img/nd133_cef.png)
+
 1. **S. J. Gomez Alvarado**\*, J. R. Chamorro\*, D. Rout, J. Hielscher, S. Schwarz, C. Benyacko, M. B. Stone, V. Ovidiu Garlea, A. R. Jackson, G. Pokharel, R. Gomez, B. R. Ortiz, S. Sarker, L. Kautzsch, L. C. Gallington, R.  Seshadri, and S. D. Wilson, Interleaved bond frustration in triangular lattice $$Ln$$Cd$$_3$$P$$_3$$. *Nat. Mater.* **25** 65 (2025)  \[[**DOI: 10.1038/s41563-025-02380-x**](https://doi.org/10.1038/s41563-025-02380-x)\]\[[**arXiv: 2501.04203**](https://arxiv.org/abs/2501.04203)\]
    
    \* These authors contributed equally to this work.
