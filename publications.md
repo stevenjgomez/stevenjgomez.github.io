@@ -16,7 +16,7 @@ layout: "page"
    ![prcd3p3_raman.png](img/prcd3p3_raman.png)
 
 
-1. A. N. Capa Salinas, B. R. Ortiz, **S. J. Gomez Alvarado**, S. Schwarz, G. Pokharel, L. Buiarelli, H. H. Park, S. Yuan, R. Yin, S. Sarker, T. Birol, and S. D. Wilson, Interplay between charge correlations and superconductivity across the superconducting domes of CsV$$_3$$Sb$$_{5−x}$$Sn$$_x$$. *Phys. Rev. B* **114**, 094504 (2026). \[[**arXiv: 2512.11177**](https://arxiv.org/abs/2512.11177)\]
+1. A. N. Capa Salinas, B. R. Ortiz, **S. J. Gomez Alvarado**, S. Schwarz, G. Pokharel, L. Buiarelli, H. H. Park, S. Yuan, R. Yin, S. Sarker, T. Birol, and S. D. Wilson, Interplay between charge correlations and superconductivity across the superconducting domes of CsV$$_3$$Sb$$_{5−x}$$Sn$$_x$$. *Phys. Rev. B* **114**, 094504 (2026).  \[[**DOI: 10.1103/bcqw-7lsf**](https://doi.org/10.1103/bcqw-7lsf)\]\[[**arXiv: 2512.11177**](https://arxiv.org/abs/2512.11177)\]
    ![cvs_stripes.png](img/cvs_stripes.png)
 
 1. T. Zhang\*, **S. J. Gomez Alvarado**\*, S. Xu, T. J. Williams, X. Wang, J. He, M. B. Stone, C. Sarkis, F. Ye, Z. Liu, J. Li, A. Jayakumar, Z. Wang, Y. Xie, C.-W. Chu, L. Deng, E. Morosan, and P. Dai, Evidence for itinerant electron-local moment interaction in Li-doped
