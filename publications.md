@@ -12,13 +12,16 @@ layout: "page"
 <!-- 1. **S. J. Gomez Alvarado**, J.-S. Su, D.-J. Huang, H.-Y. Huang, J. Okamoto, A. Fujimori, T. Fujii, T. Watanabe, S. Liu, K. Matsuura, M. Roppongi, R. Olmos, X. Lu, T. Shibauchi, and P. Dai, Persistent high-energy spin excitations across the phase diagram of FeSe$$_{1-x}$$Te$$_x$$. Submitted (2026). \[[**arXiv: xxxx.xxxxx**](https://arxiv.org/abs/xxxx.xxxxx)\]
    ![FeSeTe_RIXS_TOC.png](img/FeSeTe_RIXS_TOC.png) -->
 
+1. M. Guo, R. Noguchi, M. M. Hassan, **S. J. Gomez Alvarado**, R. M. Gomez, Y.-J. Chan, Y.-C. Wen, S. D. Wilson, Y. Wang, and D. Hsieh, Dynamical many-body control of high harmonic generation in a Mott insulator. Submitted (2026). \[[**arXiv: 2610.12136**](https://arxiv.org/abs/2610.12136)\]
+   ![lco_hhg.png](img/lco_hhg.png)
+
 1. T. Zhang, Z. Wang, D. L. Abernathy, R.-Z. Lin, **S. J. Gomez Alvarado**, C.-L. Huang, and P. Dai, Crystal electric field excitations and an effective-spin-1/2 ground doublet in the hyperkagome magnet Yb$$_3$$Sc$$_2$$Ga$$_3$$O$$_{12}$$. Submitted (2026). \[[**arXiv: 2608.29276**](https://arxiv.org/abs/2608.29276)\]
    ![hyperkagome_toc.png](img/hyperkagome_toc.png)
 
 1. A. N. Capa Salinas, B. R. Ortiz, **S. J. Gomez Alvarado**, S. Schwarz, G. Pokharel, L. Buiarelli, H. H. Park, S. Yuan, R. Yin, S. Sarker, T. Birol, and S. D. Wilson, Interplay between charge correlations and superconductivity across the superconducting domes of CsV$$_3$$Sb$$_{5−x}$$Sn$$_x$$. *Phys. Rev. B* **114**, 094504 (2026).  \[[**DOI: 10.1103/bcqw-7lsf**](https://doi.org/10.1103/bcqw-7lsf)\]\[[**arXiv: 2512.11177**](https://arxiv.org/abs/2512.11177)\]
    ![cvs_stripes.png](img/cvs_stripes.png)
 
-1. J. Davis, J. Liebman, D. Rout, **S. J. Gomez Alvarado**, S. D. Wilson, and N. Drichko, Raman scattering spectroscopic observation of a ferroelastic crossover in bond-frustrated PrCd$$_3$$P$$_3$$. Submitted (2026). \[[**arXiv: 2603.04539**](https://arxiv.org/abs/2603.04539)\]
+1. J. Davis, J. Liebman, D. Rout, **S. J. Gomez Alvarado**, S. D. Wilson, and N. Drichko, Raman scattering spectroscopic observation of a ferroelastic crossover in bond-frustrated PrCd$$_3$$P$$_3$$. *Phys. Rev. B* **114**, 204308 (2026). \[[**DOI: 10.1103/yyds-nt3g**](https://doi.org/10.1103/yyds-nt3g)\]\[[**arXiv: 2603.04539**](https://arxiv.org/abs/2603.04539)\]
    ![prcd3p3_raman.png](img/prcd3p3_raman.png)
 
 1. T. Zhang\*, **S. J. Gomez Alvarado**\*, S. Xu, T. J. Williams, X. Wang, J. He, M. B. Stone, C. Sarkis, F. Ye, Z. Liu, J. Li, A. Jayakumar, Z. Wang, Y. Xie, C.-W. Chu, L. Deng, E. Morosan, and P. Dai, Evidence for itinerant electron-local moment interaction in Li-doped
